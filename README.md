@@ -14,6 +14,9 @@ Prepare sua IDE, porque a nossa festa é compilada. Menos confete, mais commit.
 
 [Vem pro bloquinho de código!](http://lp.balta.io/desafiocarnacode-2026)
 
+### eBook - Fundamentos dos Design Patterns
+Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fundamentos dos Design Patterns](https://lp.balta.io/ebook-fundamentos-design-patterns).
+
 ## Meu progresso:
 
 ### Padrões Criacionais
