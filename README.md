@@ -1,1 +1,49 @@
-# balta-desafio-carnacode-2026-central
+![banner](https://baltaio.blob.core.windows.net/static/images/v4/challenges/carnacode-2026/banner.jpg)
+
+# Desafio Carnacode 2026
+
+## Introdução
+
+O Brasil tem o carnaval de rua, mas a comunidade Balta tem o carnaval de build. 
+
+O Carna Code é o nosso bloco: sem abadá, mas com muita arquitetura. Sabemos que um código limpo e desacoplado traz mais alegria que qualquer marchinha. 
+
+Por isso, convocamos todos os devs que preferem dominar Design Patterns a perder tempo na multidão. Vamos refatorar o feriado e fazer o deploy da sua melhor versão profissional. 
+
+Prepare sua IDE, porque a nossa festa é compilada. Menos confete, mais commit.
+
+[Vem pro bloquinho de código!](http://lp.balta.io/desafiocarnacode-2026)
+
+## Meu progresso:
+
+### Padrões Criacionais
+
+- [Abstract Factory](https://github.com/ronaldofas/balta-desafio-carnacode-2026_1-abstract-factory) ​​​​✅
+- [Builder](https://github.com/ronaldofas/balta-desafio-carnacode-2026_2-builder) ​​​​✅
+- [Factory Method](https://github.com/ronaldofas/balta-desafio-carnacode-2026_3-factory-method) ​​​​✅
+- Prototype ​​⏲️
+- Singleton ​⏲️
+
+### Padrões Estruturais
+
+- Adapter ​⏲️​
+- Bridge ​⏲️​
+- Composite ​⏲️​
+- Decorator ​⏲️​
+- Facade ​⏲️​
+- Flyweight ​⏲️​
+- Proxy ​⏲️​
+
+### Padrões comportamentais
+
+- Chain of Responsibility ​⏲️​
+- Command ​⏲️​
+- Interpreter ​⏲️​
+- Iterator ​⏲️​
+- Mediator ​⏲️​
+- Memento ​⏲️​
+- Observer ​⏲️​
+- State ​⏲️​
+- Strategy ​⏲️​
+- Template Method ​⏲️​
+- Visitor ​⏲️​
