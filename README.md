@@ -21,10 +21,10 @@ Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fu
 
 ### Padrões Criacionais
 
-- [Abstract Factory](https://github.com/ronaldofas/balta-desafio-carnacode-2026_1-abstract-factory) ​​​​✅
-- [Builder](https://github.com/ronaldofas/balta-desafio-carnacode-2026_2-builder) ​​​​✅
-- [Factory Method](https://github.com/ronaldofas/balta-desafio-carnacode-2026_3-factory-method) ​​​​✅
-- Prototype ​​⏲️
+- [Abstract Factory](https://github.com/ronaldofas/balta-desafio-carnacode-2026_1-abstract-factory) ✅
+- [Builder](https://github.com/ronaldofas/balta-desafio-carnacode-2026_2-builder) ✅
+- [Factory Method](https://github.com/ronaldofas/balta-desafio-carnacode-2026_3-factory-method) ✅
+- [Prototype](https://github.com/ronaldofas/balta-desafio-carnacode-2026_4-prototype) ✅
 - Singleton ​⏲️
 
 ### Padrões Estruturais
