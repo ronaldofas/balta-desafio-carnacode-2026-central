@@ -20,7 +20,7 @@ Prepare sua IDE, porque a nossa festa é compilada. Menos confete, mais commit.
 
 - [Abstract Factory](https://github.com/ronaldofas/balta-desafio-carnacode-2026_1-abstract-factory) ​​​​✅
 - [Builder](https://github.com/ronaldofas/balta-desafio-carnacode-2026_2-builder) ​​​​✅
-- [Factory Method](https://github.com/ronaldofas/balta-desafio-carnacode-2026_3-factory-method) ​​​​✅
+- [Factory Method](https://github.com/ronaldofas/balta-desafio-carnacode-2026_3-factory-method) ​​​​⏲️
 - Prototype ​​⏲️
 - Singleton ​⏲️
 
