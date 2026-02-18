@@ -29,7 +29,7 @@ Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fu
 
 ### Padrões Estruturais
 
-- Adapter ​⏲️​
+- [Adapter](https://github.com/ronaldofas/balta-desafio-carnacode-2026_6-adapter) ✅
 - Bridge ​⏲️​
 - Composite ​⏲️​
 - Decorator ​⏲️​
