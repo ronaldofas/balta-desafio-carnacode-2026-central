@@ -32,7 +32,7 @@ Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fu
 - [Adapter](https://github.com/ronaldofas/balta-desafio-carnacode-2026_6-adapter) ✅
 - [Bridge](https://github.com/ronaldofas/balta-desafio-carnacode-2026_7-bridge) ✅
 - [Composite](https://github.com/ronaldofas/balta-desafio-carnacode-2026_8-composite) ✅
-- Decorator ​⏲️​
+- [Decorator](https://github.com/ronaldofas/balta-desafio-carnacode-2026_9-decorator) ✅
 - Facade ​⏲️​
 - Flyweight ​⏲️​
 - Proxy ​⏲️​
