@@ -39,7 +39,7 @@ Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fu
 
 ### Padrões comportamentais
 
-- Chain of Responsibility ​⏲️​
+- [Chain of Responsibility] ✅
 - Command ​⏲️​
 - Interpreter ​⏲️​
 - Iterator ​⏲️​
