@@ -40,7 +40,7 @@ Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fu
 ### Padrões comportamentais
 
 - [Chain of Responsibility](https://github.com/ronaldofas/balta-desafio-carnacode-2026_13-chain-of-responsibility) ✅
-- Command ​⏲️​
+- [Command](https://github.com/ronaldofas/balta-desafio-carnacode-2026_14-command) ✅
 - Interpreter ​⏲️​
 - Iterator ​⏲️​
 - Mediator ​⏲️​
