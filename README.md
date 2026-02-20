@@ -50,3 +50,9 @@ Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fu
 - [Strategy](https://github.com/ronaldofas/balta-desafio-carnacode-2026_21-strategy) ✅
 - [Template Method](https://github.com/ronaldofas/balta-desafio-carnacode-2026_22-template-method) ✅
 - [Visitor](https://github.com/ronaldofas/balta-desafio-carnacode-2026-central) ✅
+
+## Minha experiência
+
+Foi muito bom ler o conteúdo disponibilizado pelo Balta e poder desenvolver esses exercícios. Não conhecia metade desses patterns e foi uma oportunidade ímpar não só de conhecer mas aplicar soluções para compreendê-los.
+
+Obrigado equipe Balta.io.
