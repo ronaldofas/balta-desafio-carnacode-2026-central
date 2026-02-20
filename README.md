@@ -41,7 +41,7 @@ Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fu
 
 - [Chain of Responsibility](https://github.com/ronaldofas/balta-desafio-carnacode-2026_13-chain-of-responsibility) ✅
 - [Command](https://github.com/ronaldofas/balta-desafio-carnacode-2026_14-command) ✅
-- Interpreter ​⏲️​
+- [Interpreter](https://github.com/ronaldofas/balta-desafio-carnacode-2026_15-interpreter) ✅
 - Iterator ​⏲️​
 - Mediator ​⏲️​
 - Memento ​⏲️​
