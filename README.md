@@ -43,7 +43,7 @@ Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fu
 - [Command](https://github.com/ronaldofas/balta-desafio-carnacode-2026_14-command) ✅
 - [Interpreter](https://github.com/ronaldofas/balta-desafio-carnacode-2026_15-interpreter) ✅
 - [Iterator](https://github.com/ronaldofas/balta-desafio-carnacode-2026_16-iterator) ✅
-- Mediator ​⏲️​
+- [Mediator](https://github.com/ronaldofas/balta-desafio-carnacode-2026_17-mediator) ✅
 - Memento ​⏲️​
 - Observer ​⏲️​
 - State ​⏲️​
